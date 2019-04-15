@@ -1,0 +1,59 @@
+@charset "utf-8";
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	background-color: #33312e;
+}
+
+
+.head, .main-head  {
+	font-family: Comic Sans MS, sans-serif;
+	justify-content: center;
+	display: flex;
+	color: #FFAA00;
+	font-size: 2em;
+}
+
+.main-head {
+	font-size: 2.5em;
+}
+
+
+.list_andr_adv, .list_ios_adv, .list_andr_dis, .list_ios_dis {
+	font-size: 1.1em;
+	color: #B8A88A;
+	list-style-position: inside;
+	margin: 1% 1% 2% 3%;
+}
+
+.header {
+	width: calc(100% - 16px);
+	background-color: #262523;
+	height: 100px;
+	border: 8px groove #03094B;
+	font-size: 4em;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	font-family: Comic Sans MS, sans-serif;
+	color: #FFAA00;
+}
+
+.advantages, .disadvantages {
+	margin: 2%;
+	background-color: #262523;
+	border: 6px groove #03094B;
+	display: table;
+	border-collapse: separate;
+	border-spacing: 5px 15px;
+}
+
+.android_adv, .iOS_adv, .android_dis, .iOS_dis {
+	width: 50%;
+	background-color: #19181A; 
+	border: 5px groove #2F2A42;
+	display: table-cell;
+}
