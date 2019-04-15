@@ -101,7 +101,7 @@ html {
 
 .advantages, .disadvantages {
 	width: calc(96%-8px);
-	margin: 2%;
+	margin: 3%;
 	border: 4px groove #03094B;
 	display: table;
 	border-collapse: separate;
@@ -141,7 +141,7 @@ html {
 
 .advantages, .disadvantages {
 	width: calc(96%-6px);
-	margin: 1.5%;
+	margin: 4%;
 	border: 3px groove #03094B;
 	display: table;
 	border-collapse: separate;
@@ -181,7 +181,7 @@ html {
 
 .advantages, .disadvantages {
 	width: calc(95%-4px);
-	margin: 1%;
+	margin: 5%;
 	border: 2px groove #03094B;
 	display: table;
 	border-collapse: separate;
