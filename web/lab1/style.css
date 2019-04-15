@@ -53,16 +53,17 @@ html {
 .head {
 	font-size: 2em;
 	padding-left: 3%;
+
 }
 
 .list_andr_adv, .list_ios_adv, .list_andr_dis, .list_ios_dis {
 	font-size: 1.1em;
-	margin: 1% 1% 2% 3%;
+	margin: 4% 1% 2% 3%;
 }
 
 .header {
 	width: calc(100% - 16px);
-	height: 100px;
+	min-height: 130px;
 	border: 8px groove #03094B;
 	font-size: 4em;
 }	
@@ -89,6 +90,7 @@ html {
 	
 .main-head {
 	font-size: 2.2em;
+	margin: 2%;
 }
 
 .head  {
@@ -98,12 +100,12 @@ html {
 
 .list_andr_adv, .list_ios_adv, .list_andr_dis, .list_ios_dis {
 	font-size: 1.4em;
-	margin: 1% 1% 2% 3%;
+	margin: 3% 1% 2% 3%;
 }
 
 .header {
 	width: calc(100% - 12px);
-	height: 80px;
+	min-height: 110px;
 	border: 6px groove #03094B;
 	font-size: 3.7em;
 }	
@@ -118,9 +120,9 @@ html {
 }	
 
 .android_adv, .iOS_adv, .android_dis, .iOS_dis {
-	width: calc(96%-6px);
+	width: calc(96%-8px);
 	margin: 3%;
-	border: 3px groove #2F2A42;
+	border: 4px groove #2F2A42;
 	display: table-inline;
 }
 }
@@ -130,6 +132,7 @@ html {
 	
 .main-head {
 	font-size: 1.7em;
+	margin-bottom: 3%;
 }
 
 .head {
@@ -139,12 +142,12 @@ html {
 
 .list_andr_adv, .list_ios_adv, .list_andr_dis, .list_ios_dis {
 	font-size: 1.1em;
-	margin: 1% 1% 2% 3%;
+	margin: 3% 1% 2% 3%;
 }
 
 .header {
 	width: calc(100% - 8px);
-	height: 50px;
+	min-height: 90px;
 	border: 4px groove #03094B;
 	font-size: 3em;
 }	
@@ -159,9 +162,9 @@ html {
 }	
 
 .android_adv, .iOS_adv, .android_dis, .iOS_dis {
-	width: calc(96%-4px);
+	width: calc(96%-6px);
 	margin: 2%;
-	border: 2px groove #2F2A42;
+	border: 3px groove #2F2A42;
 	display: table-inline;
 }
 }
@@ -171,6 +174,7 @@ html {
 	
 .main-head {
 	font-size: 1.5em;
+	margin: 3%;
 }
 
 .head {
@@ -180,12 +184,12 @@ html {
 
 .list_andr_adv, .list_ios_adv, .list_andr_dis, .list_ios_dis {
 	font-size: 1.1em;
-	margin: 1% 1% 2% 3%;
+	margin: 2% 1% 2% 3%;
 }
 
 .header {
 	width: calc(100% - 6px);
-	height: 30px;
+	min-height: 60px;
 	border: 3px groove #03094B;
 	font-size: 2em;
 }	
@@ -200,9 +204,9 @@ html {
 }	
 
 .android_adv, .iOS_adv, .android_dis, .iOS_dis {
-	width: calc(95%-2px);
+	width: calc(95%-4px);
 	margin: 1%;
-	border: 1px groove #2F2A42;
+	border: 2px groove #2F2A42;
 	display: table-inline;
 }
 }
