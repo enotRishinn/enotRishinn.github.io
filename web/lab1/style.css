@@ -94,7 +94,7 @@ html {
 
 .header {
 	width: calc(100% - 12px);
-	height: 200px;
+	height: 80px;
 	border: 6px groove #03094B;
 	font-size: 3.7em;
 }	
@@ -134,7 +134,7 @@ html {
 
 .header {
 	width: calc(100% - 8px);
-	height: 50px;
+	height:200px;
 	border: 4px groove #03094B;
 	font-size: 3em;
 }	
