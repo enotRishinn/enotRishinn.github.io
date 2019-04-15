@@ -5,15 +5,22 @@
 }
 
 html {
-	background-color: pink;
+	background-color: #33312e;
 }
 
-.head, .main-head  {
+.main-head  {
 	font-family: Comic Sans MS, sans-serif;
 	justify-content: center;
 	display: flex;
 	color: #FFAA00;
 }
+
+.head  {
+	font-family: Comic Sans MS, sans-serif;
+	color: #FFAA00;
+}
+
+
 
 .list_andr_adv, .list_ios_adv, .list_andr_dis, .list_ios_dis {
 	color: #B8A88A;
@@ -45,6 +52,7 @@ html {
 
 .head {
 	font-size: 2em;
+	padding-left: 3%;
 }
 
 .list_andr_adv, .list_ios_adv, .list_andr_dis, .list_ios_dis {
@@ -85,11 +93,12 @@ html {
 
 .head  {
 	font-size: 1.7em;
+	padding-left: 3%;
 }
 
 .list_andr_adv, .list_ios_adv, .list_andr_dis, .list_ios_dis {
 	font-size: 1.4em;
-	margin: 1% 1% 2% 2%;
+	margin: 1% 1% 2% 3%;
 }
 
 .header {
@@ -125,11 +134,12 @@ html {
 
 .head {
 	font-size: 1.3em;
+	padding-left: 3%;
 }
 
 .list_andr_adv, .list_ios_adv, .list_andr_dis, .list_ios_dis {
 	font-size: 1.1em;
-	margin: 1% 1% 1% 2%;
+	margin: 1% 1% 2% 3%;
 }
 
 .header {
@@ -165,11 +175,12 @@ html {
 
 .head {
 	font-size: 1.2em;
+	padding-left: 3%;
 }
 
 .list_andr_adv, .list_ios_adv, .list_andr_dis, .list_ios_dis {
 	font-size: 1.1em;
-	margin: 1% 1% 1% 1%;
+	margin: 1% 1% 2% 3%;
 }
 
 .header {
