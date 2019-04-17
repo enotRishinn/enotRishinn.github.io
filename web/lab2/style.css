@@ -3,7 +3,8 @@
 body {
   background-image: url(img/background.jpg);
   background-attachment: fixed;
-  background-size: cover !important;
+  background-size: cover;
+  background-repeat: repeat;
 }
 
 hr {
